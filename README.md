@@ -1,8 +1,7 @@
 # 📚 **Generate Key Insights API**  
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%F0%9F%9A%80-brightgreen)  
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
-![License](https://img.shields.io/badge/license-MIT-informational)  
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 
 ### 🚀 **Extract meaningful insights from long stories effortlessly!**
 
@@ -98,8 +97,9 @@ Access the interactive API documentation at:
 ```json
 {
   "insights": [
-    "Focus on time management by setting clear priorities.",
-    "Break larger tasks into smaller, manageable steps."
+    "U.S. productivity is at an all-time high, according to a new report.
+     The report by the Bureau of Labor Statistics looks at the role of women in the economy.
+     It says women are responsible for more than half of the nation's economic growth."
   ]
 }
 ```
@@ -138,7 +138,7 @@ We welcome contributions!
 
 ## 📜 **License**
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the NIKHIL-58.
 
 ---
 
