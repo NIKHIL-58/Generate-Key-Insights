@@ -1,4 +1,4 @@
-# 📚 **Generate Key Insights API**  
+# 📚 **Generate Key Insights**  
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%F0%9F%9A%80-brightgreen)  
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -43,7 +43,7 @@ generate_key_insights/
 ### **Installation Steps**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/generate-key-insights.git
+   git clone https://github.com/NIKHIL-58/Generate-Key-Insights.git
    cd generate-key-insights
    ```
 
