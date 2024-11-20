@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+transformers
+gensim==3.8.3
+pydantic
+rake-nltk
